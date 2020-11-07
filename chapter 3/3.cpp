@@ -16,4 +16,5 @@ int main()
     cout << degrees << " degrees, " << minutes << " minutes, " << seconds << " seconds = " << degrees + minutes / transform + seconds / pow(transform, 2) << " degrees" << endl;
     cin.get();
     cin.get();
+    return 0;
 }

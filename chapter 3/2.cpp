@@ -18,4 +18,5 @@ int main()
     cout << "Your BMI is " << pound * poundToKG / pow(((foot * inchTofoot + inch) * inchTometric), 2) << endl;
     cin.get();
     cin.get();
+    return 0;
 }

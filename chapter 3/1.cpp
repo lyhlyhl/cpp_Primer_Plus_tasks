@@ -11,4 +11,6 @@ int main()
     cout << "The result of the conversion is " << height_inch * transformDate << endl;
     cin.get();
     cin.get();
+
+    return 0;
 }
