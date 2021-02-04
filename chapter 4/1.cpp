@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    cout << "What is your first name? ";
+    cout << "What is your first name?";
     char first_name[20], last_name[20];
     cin.getline(first_name, 20);
 
